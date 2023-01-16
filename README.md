@@ -1,6 +1,6 @@
 # Welcome to Plagueware!
 Plagueware is a simulation game in which you observe the spread of a virus over a small town.
-You view the town from an overhead perspective and watch the inhabitants of the town go about their daily lives as they slowly spread the virus.
+You view the town from an overhead perspective and watch the inhabitants of the town go about their daily lives as they slowly spread the virus. Initial Repo with commits at https://github.com/umutarda/plagueware
 # How to run
 You can run this game by cloning this repository, and running the `main/Main.java` file on Visual Studio Code or by running the `plagueware.jar` file. You will need to have Java installed.
 # Technologies and dependencies
