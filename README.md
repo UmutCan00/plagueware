@@ -37,9 +37,9 @@ Your town may be infiltrated by spies.
 These spies will manipulate the variables of the virus. 
 You can ban by spending a portion of your budget, or you may leave them as is since the way the spies manipulate the virus may be beneficial for you.
 # Credits
-Umut Can Bolat
-Umut Arda Tuncar
-Emir Kerem Şahin
-Umut Aktaş
+* Umut Can Bolat
+* Umut Arda Tuncar
+* Emir Kerem Şahin
+* Umut Aktaş
 
 **LET'S ROLL!**
