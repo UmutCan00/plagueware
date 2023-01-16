@@ -36,7 +36,7 @@ If the vaccine is free, more people will get the virus, however, you won't gener
 Your town may be infiltrated by spies.
 These spies will manipulate the variables of the virus. 
 You can ban by spending a portion of your budget, or you may leave them as is since the way the spies manipulate the virus may be beneficial for you.
-#Credits
+# Credits
 Umut Can Bolat
 Umut Arda Tuncar
 Emir Kerem Şahin
